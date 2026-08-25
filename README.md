@@ -59,14 +59,12 @@ Created visualizations using Matplotlib and Seaborn to identify:
 - Customer lifetime value
 - Relationships between customer attributes and churn
 
-## Key Business Questions
+## Key Insights
 
-- Which subscription plans have the highest churn?
-- Which customer segments are most likely to churn?
-- How does customer churn affect potential revenue?
-- Which customer segments have higher estimated CLTV?
-- How does customer tenure differ between churned and retained customers?
-- Which areas or subscription plans require greater retention attention?
+- Identified customer segments and subscription plans with higher churn rates.
+- Analyzed the relationship between customer tenure, monthly charges, and churn.
+- Estimated Customer Lifetime Value (CLTV) to understand differences in customer value.
+- Evaluated potential revenue impact associated with customer churn.
 
 ## Project Structure
 
